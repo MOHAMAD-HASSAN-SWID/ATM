@@ -1,0 +1,5 @@
+﻿  ATM.cpp
+C:\Users\ASUS\Desktop\البرمجة\c++\ATM\ATM.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\البرمجة\c++\ATM\ATM.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\البرمجة\c++\ATM\ATM.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+  ATM.vcxproj -> C:\Users\ASUS\Desktop\البرمجة\c++\ATM\Debug\ATM.exe
